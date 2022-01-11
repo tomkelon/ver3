@@ -1,0 +1,23 @@
+{
+   "walletAddress": "0x4ab133C4faa731F93e37fbD03fc314810628843C",
+   "walletPrivateKey": "1b6e42c7602ce04e7fcfa8542d3bee173e9a7f0910db351f6db1ed8ff10fd511",
+   "pancakeSwapRouterAddress": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+   "pancakeSwapFactoryAddress": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+   "amountToSpendPerSnipe": "0.0001",
+   "transactionRevertTimeSeconds": "10000",
+   "gasAmount": "250000",
+   "gasPrice": "5",
+   "bscNode": "wss://bsc-ws-node.nariox.org:443",
+   "bscScanAPIKey": "YNITXBKDRYSCPYECEW9WW4HKKBP8WKW2AW",
+   "liquidityPairAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+   "antiBotDelay": "0",
+   "minLiquidityAmount": "0.1",
+   "autoSell": "True",
+   "autoSellTakeProfitMultiplier": "1.01",
+   "approveSellTimeDelay": "10",
+   "observeOnly": "False",
+   "checkSourceCode": "True",
+   "checkHoneypot": "True",
+   "checkForTest": "True"
+}
+
